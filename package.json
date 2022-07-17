@@ -1,0 +1,21 @@
+{
+  "name": "lexuizm",
+  "version": "1.0.0",
+  "description": "Lexuizm v12 Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lexuizm",
+    "Wintey",
+    "v12",
+    "Boş",
+    "Altyapı"
+  ],
+  "author": "Lexuizm",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
